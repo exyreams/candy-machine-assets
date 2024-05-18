@@ -1,0 +1,7 @@
+Wrote new keypair to /home/gitpod/.config/solana/id.json
+===============================================================================
+pubkey: D9tGzhNeAsL3sCLYTgpVU1DB9Apt92RBYN9SrAM6RWo4
+===============================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+panel casual fork drive oblige quality express rhythm amused abstract bless hat
+===============================================================================
